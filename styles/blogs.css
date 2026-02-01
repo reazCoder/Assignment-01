@@ -40,3 +40,123 @@
     font-weight: bold;
     font-size: 65px;
 }
+/* main part */
+.main-part{
+    width: 1140px;
+    height: 328px;
+    display: flex;
+    justify-content: space-between;
+    /* margin: 151 154 159px; */
+    margin-left: 250px;
+    margin-top: 50px;
+    padding: 70px;
+}
+.main-title{
+    font-weight: bold;
+    font-size: 42px;
+}
+.btn-primary-3{
+    width: 174px;
+    height: 48px;
+    background-color: #4E47FF;
+    color: aliceblue;
+    border-radius: 10px;
+}
+.img-1{
+    width: 403px;
+    height: 328px;
+    border-radius: 25px;
+}
+.div-2{
+    gap: 20px;
+}
+/* section-2 part */
+.banner-section{
+    background-color: rgba(37, 99, 235, 0.1); 
+    width: 1140px;
+    height: 306px;
+    border-radius: 20px;
+    /* border: 5px solid tomato; */
+    justify-content: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 0 auto;
+}
+.banner-header{
+    font-weight: bold;
+    font-size: 38px;
+    align-items: center;
+    margin-left: 10px;
+    padding: 15px;
+}
+.total-banner{ 
+    width: 856px;
+    height: 206px;
+    margin: 0 auto;
+ } 
+.total-into{
+    display: flex;
+    justify-content: space-around;
+}
+
+.into-part{
+    width: 180px;
+    height: 121px;
+    /* border: 3px solid greenyellow; */
+    /* margin: 10px; */
+    padding: 15px;
+
+}
+.title{
+    color: #4E47FF;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+/* section-2 styles */
+.section-2{
+    width: 1140px;
+    height: 345px;
+    /* border: 5px solid tomato; */
+    margin: 0 auto;
+
+}
+.sec-2-title{
+    font-weight: bold;
+    font-size: 42px;
+    margin-left: 200px;
+    margin-bottom: 10px;
+    padding: 50px;
+    align-items: center;
+}
+.card{
+    display: flex;
+    justify-content: space-around;
+    max-width: 1140px;
+    height: 243px;
+    margin-top: 20px;
+    background-color: #FFFFFF;
+    box-shadow: 5px;
+}
+.card-styles{
+    background-color: #FFFFFF;
+    border-radius: 20px;
+    width: 367px;
+    height: 243px;
+    gap: 24px;
+    padding: 24px;
+    margin: 15px;
+}
+.icon{
+    width: 80px;
+    height: 80px;
+    padding: 5px;
+
+}
+.flex-styles{
+    display: flex;
+    /* justify-content: space-between; */
+    gap: 10px;
+}
