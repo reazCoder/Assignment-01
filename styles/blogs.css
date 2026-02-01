@@ -1,0 +1,42 @@
+/* header part */
+.header-part{
+    max-width: 1450px;
+    max-height: 700px;
+    align-items: center;
+    margin: 150px;
+    padding: 150px;
+    background-image: url(../B12A01-landing-launchpad/Assets/Hero-bg.png);
+}
+.part-1{
+    display: flex;
+    justify-content: space-between;
+}
+.logo-1{
+    color: #4E47FF;
+    font-size: 34px;
+}
+.btn-primary-1{
+    width: 132px;
+    height: 48px;
+    background-color: #4E47FF;
+    color: aliceblue;
+    border-radius: 10px;
+}
+.btn-primary-2{
+    width: 174px;
+    height: 48px;
+    background-color: #4E47FF;
+    color: aliceblue;
+    border-radius: 10px;
+    margin-left: 250px;
+}
+.part-2{
+    width: 905px;
+    height: 237px;
+    margin: 0 auto;
+    
+}
+.logo-2{
+    font-weight: bold;
+    font-size: 65px;
+}
