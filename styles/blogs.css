@@ -41,6 +41,9 @@
     font-size: 65px;
 }
 /* main part */
+.total-main{
+    background-color: #F5F8FF;
+}
 .main-part{
     width: 1140px;
     height: 328px;
@@ -159,4 +162,91 @@
     display: flex;
     /* justify-content: space-between; */
     gap: 10px;
+}
+/* section-part-3 */
+.section-part-3{
+    width: 1140px;
+    height: 696px;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    margin: 0 auto;
+    margin-top: 228px;
+    padding: 10px;
+}
+.part-3-title{
+    font-weight: bold;
+    font-size: 50px;
+    margin-top: 71px;
+}
+.free-btn{
+    background-color: #4E47FF;
+    color: #F5F8FF;
+    width: 195px;
+    height: 48px;
+    padding: 15px;
+    border-radius: 15px;
+    margin-left: 146px;
+    margin-bottom: 20px;
+}
+.pic-web{
+    width: 840px;
+    height: 364px;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom: 71px;
+    border-radius: 48px;
+}
+.div-3{
+    margin-left: 312px;
+    margin-right: 312px;
+    margin-top: 71px;
+}
+
+/* section-part-4 */
+.section-part-4{
+    width: 1140px;
+    height: 632px;
+    display: flex;
+    margin: 0 auto;
+    margin-top: 78px;
+
+}
+.part-4-title{
+    width: 528px;
+    height: 232px;
+    font-weight: bold;
+    font-size: 97px;
+    align-items: center;
+    margin-top: 200px;
+}
+.input-part{
+    width: 497px;
+    height: 490px;
+    padding: 15px;
+}
+.form-1{
+    width: 480px;
+    height: 60px;
+    padding: 10px;
+    border-radius: 10px;
+    text-decoration: none;
+    border: none;
+}
+.form-2{
+    width: 480px;
+    height: 80px;
+    padding: 10px;
+    border-radius: 10px;
+    text-decoration: none;
+    border: none;
+}
+.btn-touch{
+    width: 480px;
+    height: 50px;
+    background-color: #4E47FF;
+    color: #FFFFFF;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 15px;
+
 }
